@@ -1,5 +1,3 @@
-# Data Structure and Algorithms
 
-This repository contains solutions for the problems of Cracking the Coding Interview book.
-
-
+# Data-Stucture-and-Algorithms-Programs
+Add DS Programs in any language.
